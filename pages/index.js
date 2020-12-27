@@ -13,7 +13,6 @@ export default function Home(props) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>ヨッシー</p>
         <p>緑色の怪獣です。</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
